@@ -1,4 +1,3 @@
-# Employee Management System
 
 ## Git Clone Instructions
 To get started with the project, follow these steps:
